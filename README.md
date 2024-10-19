@@ -1,6 +1,6 @@
 # Hi there! 😁👋🏼 
 
-I'm **Esteban**, a **Software Engineer** who loves solving problems and building solutions that make a real difference. I work with **Fullstack** and **Cloud technologies**, doing both back-end and front-end development to create smooth, scalable software. I enjoy making complex ideas simple and turning them into user-friendly solutions.
+I'm **Esteban**, a **Software Engineer** who loves solving problems and building solutions that make a real difference.
 
 <div align="center">
     <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWM3OWdyMDNzY2k2MWdwdTFla3NicWZnanY1Y3FkNTlhazlxaGYzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif" alt="Cat coding" width="250"/>
