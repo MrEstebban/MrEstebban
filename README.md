@@ -42,5 +42,5 @@ I'm continuously expanding my knowledge in:
 Feel free to reach out if you'd like to collaborate on a project, discuss technology trends, or just chat about software development!
 
 - 📧 [epedrazasolano@gmail.com](mailto:epedrazasolano@gmail.com)
-- 💼 <a href="https://www.linkedin.com/in/estebanpedraza/" target="_blank">LinkedIn</a>  
-- 📚 <a href="https://mrestebban.github.io/personal-page/" target="_blank">Website</a> 
+- 💼 [LinkedIn](https://www.linkedin.com/in/estebanpedraza/)
+- 📚 [Website](https://mrestebban.github.io/personal-page/)
