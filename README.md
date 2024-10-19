@@ -43,3 +43,4 @@ Feel free to reach out if you'd like to collaborate on a project, discuss techno
 
 - 📧 epedrazasolano@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/estebanpedraza/)
+- 📚 [Website](https://mrestebban.github.io/personal-page/) 
