@@ -43,6 +43,16 @@ Other technologies I've worked with:
 
 ------
 
+### 📫 Let's Connect!
+
+Feel free to reach out if you'd like to collaborate on a project, discuss technology trends, or just chat about software development!
+
+- 📧 [epedrazasolano@gmail.com](mailto:epedrazasolano@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/estebanpedraza/)
+- 📚 [Website](https://mrestebban.github.io/personal-page/)
+
+------
+
 ### 📈 Activity
 
 [![Esteban's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MrEstebban&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -57,13 +67,3 @@ Other technologies I've worked with:
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrEstebban&&theme=tokyonight" alt="MrEstebban" />
   </a>
 </p>
-
-------
-
-### 📫 Let's Connect!
-
-Feel free to reach out if you'd like to collaborate on a project, discuss technology trends, or just chat about software development!
-
-- 📧 [epedrazasolano@gmail.com](mailto:epedrazasolano@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/estebanpedraza/)
-- 📚 [Website](https://mrestebban.github.io/personal-page/)
