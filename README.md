@@ -32,7 +32,7 @@ I am a results-driven Software Engineer based in Colombia, specialized in buildi
     </tr>
     <tr>
       <td align="center" width="120"><strong>Frontend & Tools</strong></td>
-      <td><img src="https://skillicons.dev/icons?i=ts,angular,git,github,postman,python, jenkins" /></td>
+      <td><img src="https://skillicons.dev/icons?i=ts,angular,git,github,postman,python,jenkins" /></td>
     </tr>
   </table>
 </div>
