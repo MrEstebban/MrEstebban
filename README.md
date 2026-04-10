@@ -51,9 +51,9 @@ I am a results-driven Software Engineer based in Colombia, specialized in buildi
 
 I'm always open to discussing software architecture, security, or innovative backend solutions.
 
-- 💼 **LinkedIn:** [linkedin.com/in/esteban-pedraza](https://www.linkedin.com/in/esteban-pedraza/)
-- 📧 **Email:** [epedrazasolano@gmail.com](mailto:epedrazasolano@gmail.com)
-- 🌐 **Portfolio:** [mrestebban.github.io/personal-page/](https://mrestebban.github.io/personal-page/)
+- 💼 **LinkedIn:** <a href="https://www.linkedin.com/in/esteban-pedraza/" target="_blank">linkedin.com/in/esteban-pedraza</a>
+- 📧 **Email:** <a href="mailto:epedrazasolano@gmail.com">epedrazasolano@gmail.com</a>
+- 🌐 **Portfolio:** <a href="https://mrestebban.github.io/personal-page/" target="_blank">mrestebban.github.io/personal-page/</a>
 
 <div align="center">
     <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWM3OWdyMDNzY2k2MWdwdTFla3NicWZnanY1Y3FkNTlhazlxaGYzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif" alt="Cat coding" width="150"/>
