@@ -42,8 +42,6 @@ I am a results-driven Software Engineer based in Colombia, specialized in buildi
 ### 📈 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrEstebban&show_icons=true&theme=tokyonight&hide_border=true" alt="Esteban's Stats" />
-  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrEstebban&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </p>
 
