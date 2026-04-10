@@ -10,7 +10,7 @@ I am a results-driven Software Engineer based in Colombia, specialized in buildi
 - 🔭 **Currently focusing on:** Advanced Microservices Architecture and Platform Security.
 - 🏗️ **Architectural Expertise:** Clean Architecture, Event-Driven Systems, and RESTful APIs.
 - 🛡️ **Security Mindset:** Implementing robust security patterns and best practices in cloud environments.
-- ⚙️ **Daily Driver:** Java (Spring Boot), Node.js, and Cloud Infrastructure.
+- ⚙️ **Daily Driver:** Java (Spring Boot), Go, Kotlin and Cloud Infrastructure.
 
 ---
 
@@ -36,17 +36,6 @@ I am a results-driven Software Engineer based in Colombia, specialized in buildi
     </tr>
   </table>
 </div>
-
----
-
-### 🌟 Featured Projects
-
-> [!TIP]
-> Check out my most relevant work below:
-
-* **[Project Name]**: Brief description of a CRUD API or Microservice you've built. *Technologies: Java, Spring Boot, Docker.*
-* **[Platform Security Lab]**: A repository focused on security implementations (JWT, OAuth2, etc.).
-* **[BITECO Management]**: (Si tienes algo de código relacionado o un repo de arquitectura) Enterprise-level structure example.
 
 ---
 
