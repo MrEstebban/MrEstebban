@@ -20,7 +20,7 @@ I am a results-driven Software Engineer based in Colombia, specialized in buildi
   <table>
     <tr>
       <td align="center" width="120"><strong>Core Backend</strong></td>
-      <td><img src="https://skillicons.dev/icons?i=java,kotlin,spring" /></td>
+      <td><img src="https://skillicons.dev/icons?i=java,kotlin,go,spring" /></td>
     </tr>
     <tr>
       <td align="center" width="120"><strong>Cloud & Ops</strong></td>
@@ -32,7 +32,7 @@ I am a results-driven Software Engineer based in Colombia, specialized in buildi
     </tr>
     <tr>
       <td align="center" width="120"><strong>Frontend & Tools</strong></td>
-      <td><img src="https://skillicons.dev/icons?i=ts,angular,react,git,github,postman,python" /></td>
+      <td><img src="https://skillicons.dev/icons?i=ts,angular,git,github,postman,python, jenkins" /></td>
     </tr>
   </table>
 </div>
